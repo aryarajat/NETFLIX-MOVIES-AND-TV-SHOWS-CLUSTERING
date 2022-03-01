@@ -69,7 +69,8 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 * Also, Mexico and Spain have similar content on Netflix for different age group
 ## 5. Plotting the Clusters
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/85746056/156110351-17ca8029-ad2e-405d-bd6b-b3d2cefc28aa.png)
+
 
 
 ## 6. Conclusion:
